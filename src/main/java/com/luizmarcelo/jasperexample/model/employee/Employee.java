@@ -1,4 +1,4 @@
-package com.luizmarcelo.jasperexample.model;
+package com.luizmarcelo.jasperexample.model.employee;
 
 import lombok.Getter;
 import lombok.Setter;
