@@ -5,7 +5,7 @@ Just run the application and go into your browser on http://localhost:8080/repor
 - H2
 - Jasper Reports
 
-### <p align="center">Report genarated on below</p>
+### <p align="center">Genarated report on below</p>
 <br>
 <br>
 <p align="center">
